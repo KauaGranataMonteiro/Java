@@ -3,7 +3,7 @@ package prova;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicio11Lista3 {
+public class Vendaspc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
